@@ -3,5 +3,6 @@ count = 10
 while count <= 10 && count != magic_exit_number do
   puts count
   count -= 1
+print "Happy New Year!"
 end
 # Write your code here
