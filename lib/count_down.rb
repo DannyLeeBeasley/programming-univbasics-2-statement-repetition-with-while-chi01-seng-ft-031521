@@ -1,8 +1,7 @@
-magic_exit_number = 0
 count = 10 
-while count <= 10 && count != magic_exit_number do
+while count >= 1 do
   puts count
   count -= 1
 end
-print "Happy New Year!"
+putst "Happy New Year!"
 # Write your code here
